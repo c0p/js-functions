@@ -140,6 +140,7 @@ console.log(checkSum(sum));
 
 
 
+
 /*
  * #7
  * Function - checkDifference
@@ -155,7 +156,7 @@ function checkDifference(x) {
 	return "Last night i dreamt that I ate " + x + " Taco Bell";
 };
 
-console.log(checkDifference(100));
+console.log(checkDifference(difference));
 
 
 
